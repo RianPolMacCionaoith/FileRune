@@ -1,6 +1,6 @@
-# VisualMD
+# FileRune
 
-VisualMD is a camera-friendly way to move Markdown and source-code files through a visual channel.
+FileRune is a camera-friendly way to move Markdown and source-code files through a visual channel.
 It turns a file into a sheet of independently decodable QR blocks. You can display the sheet on one
 computer, photograph it with a phone, and recover the original bytes from the photo.
 
